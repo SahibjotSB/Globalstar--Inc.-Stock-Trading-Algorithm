@@ -36,13 +36,13 @@ python main.py
 
 ## Example Output
 Below is an example of the output that the script will print when run:
-Predicted price for 2025-01-14: 1.69 
-Predicted price for 2025-01-15: 1.60 
-Predicted price for 2025-01-16: 1.51 
-Predicted price for 2025-01-17: 1.42 
-Predicted price for 2025-01-18: 1.32 
-Sharpe Ratio: -1.85 
-Max Drawdown: -0.67
+- Predicted price for 2025-01-14: 296.57
+- Predicted price for 2025-01-15: 296.46
+- Predicted price for 2025-01-16: 296.35
+- Predicted price for 2025-01-17: 296.26
+- Predicted price for 2025-01-18: 296.17
+- Sharpe Ratio: -1.85 
+- Max Drawdown: -0.67
 
 
 
