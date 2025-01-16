@@ -1,3 +1,5 @@
+import numpy as np
+
 
 def calculate_sharpe_ratio(strategy_returns):
     """Calculate Sharpe ratio."""
